@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Backend Baweanesia
 This API is use for Pulau Bawean frontend application
 
@@ -26,6 +25,4 @@ yarn install
 yarn develop
 ```
 7. Wait a few moments for the application to run successfully, open the address http://localhost:1337/ in the browser to access the API.
-=======
-# baweanesia-backend
->>>>>>> bd141939394b30fa3735f259d57df88f2ddeecf4
+
